@@ -64,7 +64,7 @@ wchar_t * CheckSuspiciousLength(const size_t aSourceLength,
     if (aSourceLength > aTargetLength * 2.6)
       return L"Source 160% larger than Target";
   } else if (aTargetLength > 15) {
-  	if (aSourceLength > aTargetLength * 3)
+    if (aSourceLength > aTargetLength * 3)
       return L"Source 200% larger than Target";
   }
 
