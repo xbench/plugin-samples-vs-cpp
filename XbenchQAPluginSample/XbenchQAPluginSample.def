@@ -1,0 +1,12 @@
+EXPORTS
+GetDeclareName = _GetDeclareName@0
+GetFirstFunction = _GetFirstFunction@0
+GetNextFunction = _GetNextFunction@0
+GetDeclareInfo = _GetDeclareInfo@0
+SetConfigFile = _SetConfigFile@4
+ProcessBegin = _ProcessBegin@8
+ProcessEnd = _ProcessEnd@4
+ProcessSegment = _ProcessSegment@24
+GetFirstResult = _GetFirstResult@4
+GetNextResult = _GetNextResult@4
+GetFunctionName = _GetFunctionName@4
